@@ -1,5 +1,6 @@
-
-# Guia de instalação da Raylib
+# Flappy Bird
+Game desenvolvido como projeto final da cadeira de FUP(Fundamentos da programção), realizada durante o meu 1º semeste no ano de 2019. Foram utilizadas a linguagem de programação C e a biblioteca Raylib.
+## Guia de instalação da Raylib
 
 Instalar algumas bibliotecas necessárias:
 
@@ -24,4 +25,8 @@ sudo make install
 sudo make install RAYLIB_LIBTYPE=SHARED
 ```
 
-*Use o makefile da pasta
+<sub>*Use o makefile da pasta</sub><br>
+<sub>*O projeto foi realizado em 2019, então o processo de instalação da biblioteca pode ter sido alterado, dê prêferencia aos passos do site oficial: [Raylib](https://www.raylib.com/).</sub>
+
+## Gameplay
+<img src="Gameplay.gif">
